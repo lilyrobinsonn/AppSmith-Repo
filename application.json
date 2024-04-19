@@ -1,7 +1,11 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "CreateUserGoals",
+      "isDefault": false
+    },
+    {
+      "id": "PickUser",
       "isDefault": true
     },
     {
@@ -15,6 +19,22 @@
     {
       "id": "EntriesSuggestionsPage",
       "isDefault": false
+    },
+    {
+      "id": "ViewUserGoals",
+      "isDefault": false
+    },
+    {
+      "id": "UserWTherapistHome",
+      "isDefault": false
+    },
+    {
+      "id": "UserNoTherapistHome",
+      "isDefault": false
+    },
+    {
+      "id": "TherapistInfo",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -27,7 +47,11 @@
   },
   "color": "#C7F3F0",
   "icon": "earth",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
