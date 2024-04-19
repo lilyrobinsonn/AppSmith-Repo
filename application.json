@@ -1,8 +1,12 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "View User Goals",
       "isDefault": true
+    },
+    {
+      "id": "New Goal",
+      "isDefault": false
     }
   ],
   "viewMode": false,
