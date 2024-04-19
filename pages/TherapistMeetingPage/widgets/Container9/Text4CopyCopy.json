@@ -1,7 +1,7 @@
 {
     "needsErrorInfo": false,
     "mobileBottomRow": 54,
-    "widgetName": "Text4Copy",
+    "widgetName": "Text4CopyCopy",
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
     "searchTags": [
@@ -18,7 +18,7 @@
     "animateLoading": true,
     "overflow": "NONE",
     "fontFamily": "Nunito Sans",
-    "parentColumnSpace": 6.616211533546448,
+    "parentColumnSpace": 12.901612490415573,
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
     "dynamicBindingPathList": [
@@ -27,19 +27,19 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Delete Existing Meeting",
+    "text": "Update Existing Meeting",
     "key": "42hisd4kn1",
     "isDeprecated": false,
-    "rightColumn": 51,
+    "rightColumn": 64,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "gfcclrf8ka",
+    "widgetId": "pnh3vleoy7",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "i1mkd37dyh",
+    "parentId": "73lex1wzu0",
     "tags": [
         "Suggested",
         "Content"
@@ -48,11 +48,11 @@
     "isLoading": false,
     "mobileTopRow": 50,
     "responsiveBehavior": "fill",
-    "originalTopRow": 0,
+    "originalTopRow": 92,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 1,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 6,
+    "originalBottomRow": 96,
     "fontSize": "1.25rem",
     "minDynamicHeight": 4
 }
