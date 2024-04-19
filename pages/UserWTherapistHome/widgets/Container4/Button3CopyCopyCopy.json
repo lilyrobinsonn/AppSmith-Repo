@@ -4,7 +4,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 18,
     "widgetName": "Button3CopyCopyCopy",
-    "onClick": "",
+    "onClick": "{{navigateTo('TherapistInfo', {}, 'SAME_WINDOW');}}",
     "buttonColor": "#be185d",
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",

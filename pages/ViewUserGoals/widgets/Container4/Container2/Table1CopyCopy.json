@@ -58,7 +58,7 @@
         }
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-    "columnUpdatedAt": 1713522117804,
+    "columnUpdatedAt": 1713525240960,
     "originalBottomRow": 19,
     "defaultSelectedRowIndices": [0],
     "needsErrorInfo": false,
@@ -66,10 +66,10 @@
     "widgetName": "Table1CopyCopy",
     "defaultPageSize": 0,
     "columnOrder": [
+        "goalId",
         "userId",
         "completionStatus",
-        "description",
-        "goalId"
+        "description"
     ],
     "dynamicPropertyPathList": [{"key": "tableData"}],
     "displayName": "Table",
@@ -99,8 +99,8 @@
             "allowCellWrapping": false,
             "index": 2,
             "isDiscardVisible": true,
-            "isVisible": false,
-            "label": "goalId",
+            "isVisible": true,
+            "label": "Goal ID",
             "fontStyle": "",
             "textColor": "",
             "columnType": "number",

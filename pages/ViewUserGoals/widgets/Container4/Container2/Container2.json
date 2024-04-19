@@ -3,7 +3,7 @@
     "tabId": "",
     "boxShadow": "NONE",
     "widgetName": "Container2",
-    "borderColor": "{{appsmith.theme.colors.backgroundColor}}",
+    "borderColor": "#eab308",
     "isCanvas": true,
     "displayName": "Container",
     "iconSVG": "/static/media/icon.daebf68875b6c8e909e9e8ac8bee0c02.svg",
@@ -12,8 +12,8 @@
         "parent",
         "group"
     ],
-    "topRow": 22,
-    "bottomRow": 53,
+    "topRow": 28,
+    "bottomRow": 59,
     "parentRowSpace": 10,
     "type": "CONTAINER_WIDGET",
     "hideCard": false,
@@ -22,7 +22,7 @@
     "parentColumnSpace": 15.11279296875,
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
-    "dynamicBindingPathList": [{"key": "borderColor"}],
+    "dynamicBindingPathList": [],
     "children": [{
         "rightColumn": 719.8438148498535,
         "widgetName": "Canvas2",
@@ -66,8 +66,8 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "responsiveBehavior": "fill",
-    "originalTopRow": 22,
+    "originalTopRow": 28,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 63,
+    "originalBottomRow": 59,
     "minDynamicHeight": 10
 }

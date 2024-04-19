@@ -4,7 +4,9 @@
     "boxShadow": "none",
     "mobileBottomRow": 23,
     "widgetName": "wTherapist",
+    "onClick": "{{navigateTo('UserWTherapistHome', {}, 'SAME_WINDOW');}}",
     "buttonColor": "#1d4ed8",
+    "dynamicPropertyPathList": [],
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
     "searchTags": [
@@ -19,7 +21,7 @@
     "mobileRightColumn": 37,
     "animateLoading": true,
     "parentColumnSpace": 2.25,
-    "dynamicTriggerPathList": [],
+    "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 0,
     "dynamicBindingPathList": [{"key": "borderRadius"}],
     "text": "Returning User with Therapist",

@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 5,
     "widgetName": "IconButton1",
-    "onClick": "{{navigateTo('Page1', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('PickUser', {}, 'SAME_WINDOW');}}",
     "buttonColor": "#7e22ce",
     "displayName": "Icon button",
     "iconSVG": "/static/media/icon.b08054586989b185a0801e9a34f8ad49.svg",
