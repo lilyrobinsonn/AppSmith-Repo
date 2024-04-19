@@ -5,7 +5,15 @@
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "TherapistHome",
+      "isDefault": false
+    },
+    {
+      "id": "TherapistMeetingPage",
+      "isDefault": false
+    },
+    {
+      "id": "EntriesSuggestionsPage",
       "isDefault": false
     }
   ],
