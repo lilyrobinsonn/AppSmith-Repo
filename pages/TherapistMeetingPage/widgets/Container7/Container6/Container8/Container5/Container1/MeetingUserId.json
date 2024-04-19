@@ -51,7 +51,7 @@
     "rightColumn": 64,
     "widgetId": "cu6e263clc",
     "minWidth": 450,
-    "label": "UserId",
+    "label": "User ID",
     "parentId": "uzv3bcfrvm",
     "labelAlignment": "left",
     "renderMode": "CANVAS",

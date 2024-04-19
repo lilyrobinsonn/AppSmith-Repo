@@ -51,7 +51,7 @@
     "rightColumn": 64,
     "widgetId": "agyfrlqe6u",
     "minWidth": 450,
-    "label": "MeetingId",
+    "label": "Meeting ID",
     "parentId": "ewb2q9twh3",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
